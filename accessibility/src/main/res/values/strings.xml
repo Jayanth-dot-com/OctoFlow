@@ -1,0 +1,4 @@
+<resources>
+    <string name="accessibility_service_description">OctoFlow reads your screen to automate tasks across apps. It only accesses UI elements when you give a voice command.</string>
+    <string name="app_name">OctoFlow</string>
+</resources>

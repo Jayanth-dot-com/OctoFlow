@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Flow/octopus tentacle shape - stylized as a flowing S-curve -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22 C38,22 26,34 26,50 C26,62 34,72 44,76 L44,84 C44,88 48,92 54,92 C60,92 62,86 62,84 L62,76 C68,73 72,68 72,62 C72,54 66,48 58,48 L50,48 C46,48 42,44 42,38 C42,32 46,28 52,28 L54,28 C58,28 62,32 62,38 L54,38 L54,22 Z"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1" />
+    <!-- Head circle -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M 38,52 a 16,16 0 1,0 32,0 a 16,16 0 1,0 -32,0 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 46,49 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 56,49 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0 Z" />
+    <!-- Smile -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M48,56 Q54,61 60,56" />
+</vector>

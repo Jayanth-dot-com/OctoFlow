@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OctoFlow</string>
+    <string name="accessibility_service_description">OctoFlow reads your screen to automate tasks across apps. It only accesses UI elements when you give a voice command.</string>
+    
+    <!-- Notification channel -->
+    <string name="notification_channel_name">OctoFlow Background Service</string>
+    <string name="notification_channel_description">Keeps OctoFlow running for voice commands</string>
+</resources>
